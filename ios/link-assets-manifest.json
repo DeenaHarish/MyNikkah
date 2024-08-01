@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AGENOVA.otf",
+      "sha1": "bf981a8669a1d061f1f0ef2b55ead3221c6d3611"
+    },
+    {
+      "path": "src/assets/fonts/NunitoSans.ttf",
+      "sha1": "0660c9ab1b018a073e06d7a13b0b3959940effba"
+    }
+  ]
+}
